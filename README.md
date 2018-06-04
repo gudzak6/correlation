@@ -1,2 +1,2 @@
-# correlation
-This program will calculate the correlation between a pair of numbers x and y. 
+# Java Statistical Package
+This program will take in a text file and calculate certain statistics
